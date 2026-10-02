@@ -221,4 +221,4 @@ Sothink DHTML Menu is offered as a complete free version, with all features and 
 Start creating stunning menus for your website today with Sothink DHTML Menu! Download the complete package for free now!
 
 ---
-**Last updated:** 2026-10-02 15:29:40 UTC
+**Last updated:** 2026-10-02 20:26:42 UTC
